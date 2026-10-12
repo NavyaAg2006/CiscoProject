@@ -1,4 +1,5 @@
-# Hostel Thrift-Swap Matcher — Project Documentation
+# Cisco Summer Internship Interview Project
+## Hostel Thrift-Swap Matcher
 
 ## 1. Working Solution
 
